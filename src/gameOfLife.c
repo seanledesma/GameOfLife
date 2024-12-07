@@ -3,8 +3,8 @@
 #include "raymath.h"
 #include <string.h>
 
-#define screenWidth 1100
-#define screenHeight 1000
+#define screenWidth 850
+#define screenHeight 850
 #define gridWidth 1000
 #define gridHeight 1000
 
